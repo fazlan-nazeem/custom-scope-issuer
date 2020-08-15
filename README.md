@@ -1,5 +1,7 @@
 # custom-scope-issuer
-A custom scope issuer for APIM - The dependency versions are for APIM 3.0
+A custom scope issuer for APIM - The dependency versions are for APIM 3.0.
+
+This sustom scope issuer will return two hardcoded scopes(scope_1,scope_2) for all token requests. 
 
 # Instructions
 
